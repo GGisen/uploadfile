@@ -1,0 +1,20 @@
+{
+    "name": "ggisen/uploadfile",
+    "type": "l",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "GGisen",
+            "email": "1623498501@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
